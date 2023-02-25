@@ -1,0 +1,28 @@
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.red_star{
+    color: red;
+}
+
+p{
+    display: inline;
+}
+
+i {
+    margin-left: -110px;
+    position: inherit;
+    min-width: 35px;
+    padding-top: 9px;
+    cursor: pointer;
+}
+
+#buttonsToNavigate{
+    margin-left: 25%;
+}
+
+.text-center {
+    text-align: center!important;
+}
